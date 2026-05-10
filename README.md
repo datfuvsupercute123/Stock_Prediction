@@ -3,9 +3,11 @@ Final Project: Time-Series Analysis and Stock Market Prediction
 This project focuses on the research and application of Deep Learning models for time-series data analysis, specifically targeting price movement predictions for the Nasdaq and Vietnam stock markets.
 
 1. Introduction
+   
    The primary objective of this project is to develop a system capable of forecasting market trends and volatility over a 3-day horizon. The system integrates modern neural network architectures to optimize feature extraction and capture complex temporal dependencies.
 
 2. Dataset
+   
    For the dataset of this project, I used two (02) datasets: The first one is NASDAQ, containing international tickers, collected on the NASDAQ stock market. The second one is Vietnam, containing Vietnam tickers, collected on the HOSE stock market.
 
    Please visit this Google Drive link for the dataset: https://drive.google.com/drive/folders/1py-9WatW9vAtXJCIDJCWONU-BGGWdAc2?usp=sharing
