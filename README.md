@@ -5,7 +5,7 @@ This project focuses on the research and application of Deep Learning models for
 
 **1. Introduction**
    
-   The primary objective of this project is to develop a system capable of forecasting market trends and volatility over a 3-day horizon. The system integrates modern neural network architectures to optimize feature extraction and capture complex temporal dependencies.
+   The primary objective of this project is to develop a system capable of forecasting market trends and volatility over a 5-day horizon. The system integrates modern neural network architectures to optimize feature extraction and capture complex temporal dependencies.
 
 **2. Dataset**
    
