@@ -44,39 +44,8 @@ NASDAQ.rar: Contains the trained model weights (.h5 files) and configurations sp
 
 VIETNAM.rar: Contains the trained model weights (.h5 files) and configurations specifically optimized for the Vietnam stock dataset.
 
-**5. Technologies and Libraries**
 
-The project is developed using Python and the following core libraries:
-
-Deep Learning Frameworks: TensorFlow, Keras.
-
-Data Manipulation: Pandas, NumPy.
-
-Preprocessing and Evaluation: Scikit-learn.
-
-Web Interface: Streamlit.
-
-Deployment Tools: Pyngrok.
-
-**6. Deployment Guide**
-
-To run the project locally or in a cloud environment, follow these steps:
-
-Step 1: Extract the relevant model files (nasdaq.rar or vietnam.rar) into the working directory to ensure the application can load the pre-trained weights.
-
-Step 2: Install the required dependencies:
-
-Bash
-pip install tensorflow pandas numpy scikit-learn streamlit pyngrok
-
-Step 3: Launch the Streamlit application:
-
-Bash
-streamlit run app.py
-
-Note: If running on Google Colab, the notebook is configured with Ngrok to generate a public URL for accessing the web interface.
-
-**7. Evaluation Metrics**
+**5. Evaluation Metrics**
 
 The models are validated using standard performance indicators:
 
