@@ -36,9 +36,7 @@ Classification Model: Determines the overall market direction (Up/Down).
 
 The repository is organized as follows:
 
-Final_project_DL4AI (1).ipynb: The primary Jupyter notebook containing the end-to-end pipeline, including data preprocessing, model definition, training, and evaluation.
-
-app.py: The source code for the interactive web interface built with Streamlit for real-time visualization and inference.
+Stock Prediction in Deep Learning.ipynb: The primary Jupyter notebook containing the end-to-end pipeline, including data preprocessing, model definition, training, and evaluation.
 
 NASDAQ.rar: Contains the trained model weights (.h5 files) and configurations specifically optimized for the Nasdaq dataset.
 
