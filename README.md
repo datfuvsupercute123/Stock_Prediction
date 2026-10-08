@@ -1,5 +1,4 @@
-# Stock_Prediction
-**Final Project: Time-Series Analysis and Stock Market Prediction**
+# Stock_Prediction: Time-Series Analysis and Stock Market Prediction**
 
 This project focuses on the research and application of Deep Learning models for time-series data analysis, specifically targeting price movement predictions for the Nasdaq and Vietnam stock markets.
 
